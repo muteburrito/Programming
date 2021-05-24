@@ -14,6 +14,9 @@ Hello world
 ?>
 <?php
     //Comments can either be entered by giving two forward slash or slash star just like above
+    /* This can also be used as multi
+    line comment */
+    
 ?>
 </body>
 </html>
