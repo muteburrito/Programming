@@ -2,7 +2,7 @@
 /* There are two types of Header files:
 
 1. System Header Files (Shipped by the user)
-which is like #iclude<iostream>
+which is like #include<iostream>
 
 2. User defined header file (Created by the user)
 eg. #include"usr.h" --> This wil gie error if usr.h is not present in 
