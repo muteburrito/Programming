@@ -5,7 +5,7 @@ last = 'Smith'
 message = first + ' [' + last + ']' + ' is a coder'
 # The above concatination makes the code and the string more complicated so we use formatted strings
 
-# ormatted string is started with f and quotes
+# Formatted string is started with f and quotes
 # prefix f and curly braces to insert that variable
 mssg = f'{first} [{last}] is a coder'
 # print(mssg)
