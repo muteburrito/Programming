@@ -1,0 +1,15 @@
+So our game must work in this way:
+
+> # Waiting for input
+> help
+start - to start the car
+stop - to stop the car
+exit - to terminate the game
+>ewewedwe
+I don't understand that
+> start
+Car has been started.. ready to go!
+> stop
+Car is stopped.
+> exit
+# Program terminates
