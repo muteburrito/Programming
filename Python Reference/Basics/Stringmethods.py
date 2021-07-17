@@ -19,5 +19,5 @@ print(a.replace('World', 'Universe'))
 
 # This expression will give bollean value and check if that string is present in the variable
 print('World' in a)
-
 # Find method returns index of that string and if not present returns -1 whereas in variable name returns bollean value
+# To read more about methods visit python.docs

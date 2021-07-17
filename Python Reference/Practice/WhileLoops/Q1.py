@@ -12,6 +12,7 @@ exit - to terminate the game''')
     elif user_input == 'start' and started == False:
         print('Car is started.. and ready to go!')
         started = True
+        stopped = False
     elif user_input == 'start' and started == True:
         print('Car is already started')
     elif user_input == 'stop' and started == False:
@@ -19,6 +20,7 @@ exit - to terminate the game''')
     elif user_input == 'stop' and stopped == False:
         print('Car is stopped!')
         stopped = True
+        started = False
     elif user_input == 'stop' and stopped == True:
         print('Car is already stopped')
     elif user_input == 'exit':

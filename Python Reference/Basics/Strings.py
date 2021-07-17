@@ -21,6 +21,6 @@ print(index[0])  # This will print T
 print(index[-1])
 print(index[0:3])  # This will return values from 0 to 3 excluding 3
 # if we dont specify the values and just do index[:] then it will copy whole string as default is 0 and str len
-# this can be used to clone a string
 
+# this can be used to clone a string
 clone = index[:]
