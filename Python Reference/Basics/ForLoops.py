@@ -14,4 +14,5 @@ for i in range(1, 9, 2): # Here it will start from 1 and will end at 8 as it pri
     print(i)
 # We can also start from 2,3,... and so on 
 
-# Also we can have optional else after for loop and while loop is completed
+# Also we can have optional else after for loop and while loop is completed. This is useful only when 
+# we want to get a status for successful loop completion if we have a break in between loop the else statement is not executed
