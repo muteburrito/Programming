@@ -1,17 +1,15 @@
-# While loop has following syntax:
-# while 'condition': here the condition can be statement or a bollean value also
-# Block of code tp be executed
-## i = 1
-# while i <= 5:  # Here we define the while loop that do the below steps while the condition is i < 5
-# print(i)
-# i = i + 1  # If we dont give this line it will end up in a infinite loop
-# print('Done')
-##
-# So in general this made the printing of a number which was repetative easier
+# This is a kind of loop which runs until the condition is true
+i = 0
+while i < 5:
+    print(i)
+    i = i + 1 # This line is important as if this is not there the loop will run in an infinite sequence
+# Here once the condition ie. i < 5 becomes true the loop will stop
 
-# Now lets create a star pattern:
-i = 1
-while i <= 5:
-    print('*' * i)  # Now as we now if we put an astrix in front of a string and give it a number it will print that string those many times
+# We can also use data from a list:
+
+fruits = ['Banana', 'Mango', 'Apple', 'Watermelon']
+
+i = 0
+while i < len(fruits):
+    print(fruits[i])
     i = i + 1
-print('Done')
