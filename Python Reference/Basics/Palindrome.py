@@ -1,5 +1,6 @@
-num = (input("Enter a number:"))
+num = int(input("Enter a number:"))
 temp = int(num)
+
 rev = 0
 while(num > 0):
     dig = num % 10
