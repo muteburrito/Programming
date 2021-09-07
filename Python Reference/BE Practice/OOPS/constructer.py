@@ -9,3 +9,4 @@ class Employee():
 emp1 = Employee('CK', 100000, 'YouTube')
 
 # So basically a constructor is called even if the user does not call it.
+# 
