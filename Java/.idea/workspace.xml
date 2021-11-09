@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9333bcf-b5be-4394-a37b-7a183cd11d3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/College/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zu9dZfg2LZvjETfSXclRLgxIl3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9333bcf-b5be-4394-a37b-7a183cd11d3f" name="Changes" comment="" />
+      <created>1634987196074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634987196074</updated>
+    </task>
+    <servers />
+  </component>
+</project>
