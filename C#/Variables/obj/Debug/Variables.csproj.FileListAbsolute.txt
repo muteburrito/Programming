@@ -1,0 +1,7 @@
+D:\GIT\Programming\C#\Variables\bin\Debug\Variables.exe.config
+D:\GIT\Programming\C#\Variables\bin\Debug\Variables.exe
+D:\GIT\Programming\C#\Variables\bin\Debug\Variables.pdb
+D:\GIT\Programming\C#\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\GIT\Programming\C#\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\GIT\Programming\C#\Variables\obj\Debug\Variables.exe
+D:\GIT\Programming\C#\Variables\obj\Debug\Variables.pdb

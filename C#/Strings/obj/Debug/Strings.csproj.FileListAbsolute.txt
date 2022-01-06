@@ -1,0 +1,7 @@
+D:\GIT\Programming\C#\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+D:\GIT\Programming\C#\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\GIT\Programming\C#\Strings\bin\Debug\Strings.exe.config
+D:\GIT\Programming\C#\Strings\bin\Debug\Strings.exe
+D:\GIT\Programming\C#\Strings\bin\Debug\Strings.pdb
+D:\GIT\Programming\C#\Strings\obj\Debug\Strings.exe
+D:\GIT\Programming\C#\Strings\obj\Debug\Strings.pdb
