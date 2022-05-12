@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="409dp"
+    android:layout_height="729dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_margin="95dp"
+        android:text="Your Message is "
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="215dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="-80dp"
+        android:textColor="#490DB5" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="80dp"
+        android:onClick="Pre"
+        android:text="Back" />
+
+
+</LinearLayout>

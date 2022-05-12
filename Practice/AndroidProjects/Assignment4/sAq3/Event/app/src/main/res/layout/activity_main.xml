@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/eventName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:hint="  Event Name "
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/eventName"
+        android:layout_marginTop="19dp"
+        android:hint="   Subject "
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="250dp"
+        android:text="From" />
+
+    <EditText
+        android:id="@+id/fromDate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subject"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="52dp"
+        android:onClick="onClickDate" />
+
+    <EditText
+        android:id="@+id/fromTime"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subject"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginTop="52dp"
+        android:layout_toEndOf="@+id/fromDate"
+        android:onClick="onClickTime" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="350dp"
+        android:text="To" />
+
+    <EditText
+        android:id="@+id/toDate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fromDate"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="55dp"
+        android:onClick="onClickDate" />
+
+    <EditText
+        android:id="@+id/toTime"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fromTime"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginTop="55dp"
+        android:layout_toEndOf="@+id/toDate"
+        android:onClick="onClickTime" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toDate"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="54dp"
+        android:text="Submit" />
+
+</RelativeLayout>
