@@ -7,5 +7,5 @@ func main() {
 	var a string = "Hello"
 	var b string = "World"
 
-	fmt.Println("")
+	fmt.Printf("%s, %s", a, b)
 }

@@ -8,7 +8,9 @@ func checkPalindrome(num int) string {
 	res := 0
 	for num > 0 {
 		remainder = num % 10
+		fmt.Println("remainder is : ", remainder)
 		res = (res * 10) + remainder
+		fmt.Println("Result is : ", res)
 		num = num / 10
 	}
 	if input_num == res {

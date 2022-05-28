@@ -19,7 +19,7 @@ func main() {
 			if k == 0 || i == 0 {
 				temp = 1
 			} else {
-				temp = temp * (i - k + 1) / k
+				temp = 2
 			}
 
 			fmt.Printf(" %d", temp)
