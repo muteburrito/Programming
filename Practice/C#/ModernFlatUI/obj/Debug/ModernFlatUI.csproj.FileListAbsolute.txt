@@ -1,0 +1,11 @@
+D:\GIT\Programming\Practice\C#\ModernFlatUI\bin\Debug\ModernFlatUI.exe.config
+D:\GIT\Programming\Practice\C#\ModernFlatUI\bin\Debug\ModernFlatUI.exe
+D:\GIT\Programming\Practice\C#\ModernFlatUI\bin\Debug\ModernFlatUI.pdb
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.csproj.AssemblyReference.cache
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.csproj.SuggestedBindingRedirects.cache
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.Form1.resources
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.Properties.Resources.resources
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.csproj.GenerateResource.cache
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.csproj.CoreCompileInputs.cache
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.exe
+D:\GIT\Programming\Practice\C#\ModernFlatUI\obj\Debug\ModernFlatUI.pdb
